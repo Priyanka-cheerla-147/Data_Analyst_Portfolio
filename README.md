@@ -14,6 +14,10 @@ Explore my portfolio to see the projects I’ve worked on and the skills I’ve 
 
 In this section, I showcase some of my data analytics projects and describe the technology stack used to solve these real-world challenges.
 
+
+
+
+
 ## Work Experience
 
 ### **PNC Financials** - Data Analyst  
