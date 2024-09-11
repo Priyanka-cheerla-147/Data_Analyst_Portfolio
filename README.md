@@ -1,5 +1,18 @@
 
 # Priyanka Cheerla - Data Analyst Portfolio
+Table of Contents
+About
+Portfolio Projects
+Python
+
+SQL
+
+Excel / Google Sheets
+Tableau
+Power BI
+Education
+Certificates
+Contact
 
 ## About
 Hi, I’m Priyanka! I am a results-driven Data Analyst with 3+ years of experience in transforming complex datasets into actionable insights. I have a strong foundation in statistical analysis, predictive modeling, and data visualization using tools like Python, R, and SQL. My expertise lies in improving operational efficiency, reducing decision-making time through dashboards, and developing models that enhance business outcomes.
