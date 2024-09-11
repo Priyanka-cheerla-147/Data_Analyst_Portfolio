@@ -14,6 +14,13 @@ Explore my portfolio to see the projects I’ve worked on and the skills I’ve 
 
 In this section, I showcase some of my data analytics projects and describe the technology stack used to solve these real-world challenges.
 
+**[Hotel Reviews Sentiment Analysis](https://github.com/Priyanka-cheerla-147/Sentimental_analysis/tree/main)**
+This project utilizes Naive Bayes machine learning and regular expressions (RegEx) to classify hotel reviews as positive or negative. The model is trained on review text data, with extensive text preprocessing to remove irrelevant tokens. The Naive Bayes classifier calculates word probabilities to predict the sentiment of each review, and the results are stored in an output file.
+
+Key Techniques: Naive Bayes Algorithm, RegEx, Text Preprocessing, Word Probability Calculation
+Tools: Python, NumPy, TextBlob
+This analysis automates sentiment classification, providing insights into customer satisfaction based on review text.
+
 
 
 
