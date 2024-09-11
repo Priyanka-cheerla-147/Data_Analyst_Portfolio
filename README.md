@@ -21,9 +21,16 @@ Key Techniques: Naive Bayes Algorithm, RegEx, Text Preprocessing, Word Probabili
 Tools: Python, NumPy, TextBlob
 This analysis automates sentiment classification, providing insights into customer satisfaction based on review text.
 
+**[Airbnb Price Analysis using Tableau](https://github.com/Priyanka-cheerla-147/TABLEAU_Airbnb/blob/main/README.md)**
+This project analyzes Airbnb rental prices across various factors such as the number of bedrooms, zip codes, and yearly revenue trends. The goal is to provide Airbnb hosts with data-driven insights to optimize their pricing strategies and identify high-revenue areas.
 
+**Key Insights:**
+Avg Price per Bedroom: Prices increase with the number of bedrooms.
+Price per Zip Code: Identifies high-demand areas with higher rental prices.
+Revenue Trends: Highlights seasonal fluctuations in rental income.
+Tools: **Tableau ** for interactive visualizations, calculated fields, filters, and maps.
 
-
+This analysis empowers hosts to make informed decisions regarding property pricing and maximize their rental revenue.
 
 ## Work Experience
 
@@ -69,3 +76,4 @@ This analysis automates sentiment classification, providing insights into custom
 - **LinkedIn:** [@priyanka-cheerla-dataanalyst](https://www.linkedin.com/in/priyanka-cheerla-dataanalyst/)
 - **Email:** priyasocial147@gmail.com  
 - **GitHub:** [Priyanka-cheerla-147](https://github.com/Priyanka-cheerla-147)
+- **Mobile Number:**:+1(817)-(721)-(1080)
