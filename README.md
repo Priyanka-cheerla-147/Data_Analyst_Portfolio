@@ -6,17 +6,17 @@
 
 **2**.**[Projects](https://github.com/Priyanka-cheerla-147/Data_Analyst_Portfolio#portfolio-projects)**
     
-    **-Python**
-      **[Hotel Reviews Sentiment Analysis](https://github.com/Priyanka-cheerla-147/Sentimental_analysis/tree/main)**  
+**-Python**
+**[Hotel Reviews Sentiment Analysis](https://github.com/Priyanka-cheerla-147/Sentimental_analysis/tree/main)**  
      
-      **-SQL**
-       **[DATABASE_SYSTEMS_LIBRARY_MANAGEMENT_SYSTEM](https://github.com/Priyanka-cheerla-147/DATABASE_SYSTEMS_LIBRARY_MANAGEMENT_SYSTEM)**
+**-SQL**
+ **[DATABASE_SYSTEMS_LIBRARY_MANAGEMENT_SYSTEM](https://github.com/Priyanka-cheerla-147/DATABASE_SYSTEMS_LIBRARY_MANAGEMENT_SYSTEM)**
    
-    **-Excel / Google Sheets**
+**-Excel / Google Sheets**
    
-    **-Tableau:****[Airbnb Price Analysis using Tableau](https://github.com/Priyanka-cheerla-147/TABLEAU_Airbnb/blob/main/README.md)**
-   
-   **-Power BI**
+ **-Tableau:****[Airbnb Price Analysis using Tableau](https://github.com/Priyanka-cheerla-147/TABLEAU_Airbnb/blob/main/README.md)**
+**-Power BI**
+
 **3**.**[Work Experience](https://github.com/Priyanka-cheerla-147/Data_Analyst_Portfolio/blob/main/README.md#work-experience)**
 
 **4**.**[PNC Financials - Data Analyst](https://github.com/Priyanka-cheerla-147/Data_Analyst_Portfolio/blob/main/README.md#pnc-financials---data-analyst)**
