@@ -16,7 +16,8 @@
    
  **-Tableau:**
  **[Airbnb Price Analysis using Tableau](https://github.com/Priyanka-cheerla-147/TABLEAU_Airbnb/blob/main/README.md)**
-**-Power BI**
+ 
+ **-Power BI**
 
 **3**.**[Work Experience](https://github.com/Priyanka-cheerla-147/Data_Analyst_Portfolio/blob/main/README.md#work-experience)**
 
