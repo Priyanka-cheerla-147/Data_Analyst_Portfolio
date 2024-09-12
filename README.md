@@ -23,9 +23,9 @@
 
 **4**.**[PNC Financials - Data Analyst](https://github.com/Priyanka-cheerla-147/Data_Analyst_Portfolio/blob/main/README.md#pnc-financials---data-analyst)**
 
-**5**.**DataOne - Data Analyst](https://github.com/Priyanka-cheerla-147/Data_Analyst_Portfolio/blob/main/README.md#dataone---data-analyst)**
+**5**.**[DataOne - Data Analyst](https://github.com/Priyanka-cheerla-147/Data_Analyst_Portfolio/blob/main/README.md#dataone---data-analyst)**
 
-**6**.**[Education](https://github.com/Priyanka-cheerla-147/Data_Analyst_Portfolio/blob/main/README.md#education**
+**6**.**[Education](https://github.com/Priyanka-cheerla-147/Data_Analyst_Portfolio#education)**
 
 **7**.**[Certificates](https://github.com/Priyanka-cheerla-147/Data_Analyst_Portfolio/blob/main/README.md#certifications)**
 
