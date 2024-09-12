@@ -10,11 +10,12 @@
 **[Hotel Reviews Sentiment Analysis](https://github.com/Priyanka-cheerla-147/Sentimental_analysis/tree/main)**  
      
 **-SQL**
- **[DATABASE_SYSTEMS_LIBRARY_MANAGEMENT_SYSTEM](https://github.com/Priyanka-cheerla-147/DATABASE_SYSTEMS_LIBRARY_MANAGEMENT_SYSTEM)**
+**[DATABASE_SYSTEMS_LIBRARY_MANAGEMENT_SYSTEM](https://github.com/Priyanka-cheerla-147/DATABASE_SYSTEMS_LIBRARY_MANAGEMENT_SYSTEM)**
    
 **-Excel / Google Sheets**
    
- **-Tableau:****[Airbnb Price Analysis using Tableau](https://github.com/Priyanka-cheerla-147/TABLEAU_Airbnb/blob/main/README.md)**
+ **-Tableau:**
+ **[Airbnb Price Analysis using Tableau](https://github.com/Priyanka-cheerla-147/TABLEAU_Airbnb/blob/main/README.md)**
 **-Power BI**
 
 **3**.**[Work Experience](https://github.com/Priyanka-cheerla-147/Data_Analyst_Portfolio/blob/main/README.md#work-experience)**
