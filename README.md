@@ -5,20 +5,30 @@
 **1**.**[About](https://github.com/Priyanka-cheerla-147/Data_Analyst_Portfolio#about)**
 
 **2**.**[Projects](https://github.com/Priyanka-cheerla-147/Data_Analyst_Portfolio#portfolio-projects)**
-
-     **-Python**
-     **[Hotel Reviews Sentiment Analysis](https://github.com/Priyanka-cheerla-147/Sentimental_analysis/tree/main)**  
-    **-SQL**
+    
+    **-Python**
+      **[Hotel Reviews Sentiment Analysis](https://github.com/Priyanka-cheerla-147/Sentimental_analysis/tree/main)**  
+     
+      **-SQL**
        **[DATABASE_SYSTEMS_LIBRARY_MANAGEMENT_SYSTEM](https://github.com/Priyanka-cheerla-147/DATABASE_SYSTEMS_LIBRARY_MANAGEMENT_SYSTEM)**
+   
     **-Excel / Google Sheets**
+   
     **-Tableau:****[Airbnb Price Analysis using Tableau](https://github.com/Priyanka-cheerla-147/TABLEAU_Airbnb/blob/main/README.md)**
+   
    **-Power BI**
 **3**.**[Work Experience](https://github.com/Priyanka-cheerla-147/Data_Analyst_Portfolio/blob/main/README.md#work-experience)**
+
 **4**.**[PNC Financials - Data Analyst](https://github.com/Priyanka-cheerla-147/Data_Analyst_Portfolio/blob/main/README.md#pnc-financials---data-analyst)**
+
 **5**.**DataOne - Data Analyst](https://github.com/Priyanka-cheerla-147/Data_Analyst_Portfolio/blob/main/README.md#dataone---data-analyst)**
+
 **6**.**[Education](https://github.com/Priyanka-cheerla-147/Data_Analyst_Portfolio/blob/main/README.md#education**
+
 **7**.**[Certificates](https://github.com/Priyanka-cheerla-147/Data_Analyst_Portfolio/blob/main/README.md#certifications)**
+
 **8**.**[Contact](https://github.com/Priyanka-cheerla-147/Data_Analyst_Portfolio/blob/main/README.md#contact)**
+
 
 ## About
 Hi, I’m Priyanka! I am a results-driven Data Analyst with 3+ years of experience in transforming complex datasets into actionable insights. I have a strong foundation in statistical analysis, predictive modeling, and data visualization using tools like Python, R, and SQL. My expertise lies in improving operational efficiency, reducing decision-making time through dashboards, and developing models that enhance business outcomes.
