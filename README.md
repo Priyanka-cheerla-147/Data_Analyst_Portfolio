@@ -1,10 +1,13 @@
 
 # Priyanka Cheerla - Data Analyst Portfolio
 **Table of Contents**
+
 **1**.**[About](https://github.com/Priyanka-cheerla-147/Data_Analyst_Portfolio#about)**
+
 **2**.**[Projects](https://github.com/Priyanka-cheerla-147/Data_Analyst_Portfolio#portfolio-projects)**
+
      **-Python**
-       **[Hotel Reviews Sentiment Analysis](https://github.com/Priyanka-cheerla-147/Sentimental_analysis/tree/main)**  
+     **[Hotel Reviews Sentiment Analysis](https://github.com/Priyanka-cheerla-147/Sentimental_analysis/tree/main)**  
     **-SQL**
        **[DATABASE_SYSTEMS_LIBRARY_MANAGEMENT_SYSTEM](https://github.com/Priyanka-cheerla-147/DATABASE_SYSTEMS_LIBRARY_MANAGEMENT_SYSTEM)**
     **-Excel / Google Sheets**
